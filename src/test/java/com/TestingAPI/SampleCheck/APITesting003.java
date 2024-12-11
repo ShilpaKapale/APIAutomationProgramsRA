@@ -1,4 +1,4 @@
-package com.TestingAPI;
+package com.TestingAPI.SampleCheck;
 
 public class APITesting003 {
 
@@ -18,7 +18,7 @@ public class APITesting003 {
         APITesting003 np = new APITesting003();
         np.step1();
         np.step2();
-        np.step3("Hello");
+        np.step3("Hello World!");
     }
 
 

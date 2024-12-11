@@ -1,4 +1,4 @@
-package com.TestingAPI;
+package com.TestingAPI.SampleCheck;
 
 public class APITesting001 {
     public static void main(String[] args) {

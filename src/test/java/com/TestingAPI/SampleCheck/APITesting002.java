@@ -1,4 +1,4 @@
-package com.TestingAPI;
+package com.TestingAPI.SampleCheck;
 
 import io.restassured.RestAssured;
 

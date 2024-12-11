@@ -1,4 +1,4 @@
-package com.TestingAPI;
+package com.TestingAPI.SampleCheck;
 
 public class APITesting004_BuilderPattern {
     public APITesting004_BuilderPattern step1(){
